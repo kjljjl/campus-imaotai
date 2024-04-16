@@ -6,7 +6,6 @@
       </keep-alive>
     </transition>
     <iframe-toggle />
-    <div>{{ ttt }}</div>
   </section>
 </template>
 
